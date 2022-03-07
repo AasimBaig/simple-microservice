@@ -1,0 +1,51 @@
+{
+    "collections": [
+        {
+            "id": 100001,
+            "title": "Mental Wellness 101",
+            "verified": true,
+            "image": "https://yt3.ggpht.com/a/AATXAJwqf2im4Ms0DmPEHms525PcR5aI8lFNcL2Hsw=s900-c-k-c0xffffffff-no-rj-mo",
+            "snippets": [90001,90003,90004,90005]
+        },
+        {
+            "id": 100002,
+            "title": "Developer MWB",
+            "verified": false,
+            "image": "https://cdn11.bigcommerce.com/s-zqpm5dpqv9/images/stencil/2048x2048/products/656/1169/GayGeek__61158.1507233404.jpg",
+            "snippets": [90002]
+        }
+    ],
+    "snippets": [
+        {
+            "id": 90001,
+            "text": "<h2>Get Your Mind Plan</h2><br/><p>Answer 5 quick questions to get your free plan with tips to help you deal with stress and anxiety, improve your sleep, boost your mood and feel more in control</p>",
+            "link": "https://www.nhs.uk/every-mind-matters/mental-wellbeing-tips/your-mind-plan-quiz/",
+            "image": "https://digitalcampaignsstorage.blob.core.windows.net/campaigns-cms-prod/images/quiz-BH-promo-cards-large-compressed.width-15.width-1534.jpg"
+        },
+        {
+            "id": 90002,
+            "text": "<p>Software development at its best is a creative endeavor. Developers need a certain level of comfort to be able to produce quality work. Boring tasks, noisy offices and too many meetings can impact productivity even in the best of times.</p>",
+            "link": "https://techcrunch.com/2021/11/11/5-ways-to-improve-mental-health-for-software-developers/",
+            "image": "https://techcrunch.com/wp-content/uploads/2021/10/GettyImages-1310031204.jpg?w=1390&crop=1"
+        },
+        {
+            "id": 90003,
+            "text": "<h2>Reframe unhelpful thoughts</h2><p>The way we think, feel and behave are linked. Sometimes we develop patterns of thoughts or behaviours that are unhelpful so recognising them, and taking steps to think about things differently, can improve your mental health and wellbeing.</p>",
+            "link": "https://www.nhs.uk/every-mind-matters/mental-wellbeing-tips/top-tips-to-improve-your-mental-wellbeing/#reframe-thoughts",
+            "image": "https://digitalcampaignsstorage.blob.core.windows.net/campaigns-cms-prod/images/Top_tips_1.width-1534.png"
+        },
+        {
+            "id": 90004,
+            "text": "<h2>Be in the present</h2><p>If we take time to be aware of ourselves and be in the present moment, noticing our own thoughts and feelings, and the world around us, we can gain a better perspective. Sometimes this is known as being more mindful.</p>",
+            "link": "https://www.nhs.uk/every-mind-matters/mental-wellbeing-tips/top-tips-to-improve-your-mental-wellbeing/#present",
+            "image": "https://digitalcampaignsstorage.blob.core.windows.net/campaigns-cms-prod/images/Top_tips_2.width-1534.png"
+
+        },
+        {
+            "id": 90005,
+            "text": "<h2>Get good sleep</h2><p>Good-quality sleep makes a big difference to how we feel mentally and physically, so it's important to get enough.</p>",
+            "link": "https://www.nhs.uk/every-mind-matters/mental-wellbeing-tips/top-tips-to-improve-your-mental-wellbeing/#sleep",
+            "image":"https://digitalcampaignsstorage.blob.core.windows.net/campaigns-cms-prod/images/Coronavirus_tip_-__Maintain_a_routine.width-1534.png"
+        }
+    ]
+}
